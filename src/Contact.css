@@ -1,0 +1,251 @@
+.contact {
+    background-color: #fff;
+    padding: 11rem 0;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+
+
+
+.container {
+    margin: 0 auto;
+    max-width: 107rem;
+    padding: 0 4rem;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+
+
+
+.contact_content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+
+
+
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+
+
+
+
+.contact_title p {
+    color: #147efb;
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    
+    text-transform: uppercase;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+
+
+
+.contact_title h3 {
+    color: #2d2e32;
+    font-size: 2.5rem;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+.contact_icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8rem;
+    margin-top: 6rem;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+
+.contact__icon-box {
+    align-items: center;
+    display: flex;
+    gap: 1.5rem;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+
+
+.contact__icon-box span {
+    align-items: center;
+    background-color: #242424;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    color: #e6ebec;
+    display: flex;
+    height: 4rem;
+    justify-content: center;
+    width: 4rem;
+    margin-left: 1.5rem;
+}
+
+.contact__icon-box a{
+    text-decoration: none;
+    cursor: pointer;
+    color: #242424;
+}
+
+.contact__info{
+    font-size: 1.5rem;
+    cursor: pointer;
+    justify-content: center;
+    color: #242424;
+}
+
+.contact__info a:hover{
+    color: #147efb;
+}
+
+

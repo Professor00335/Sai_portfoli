@@ -1,0 +1,142 @@
+.about {
+    background-color: #b7b2ae;
+    padding: 15rem 0;
+}
+
+user agent stylesheet
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.container {
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 107rem;
+    padding: 0 4rem;
+}
+
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+}
+
+
+user agent stylesheet
+div {
+    unicode-bidi: isolate;
+}
+
+
+
+
+.img-side {
+    position: absolute;
+}
+
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+
+
+
+
+.img-side__main-img {
+    border-radius: 1.9rem;
+    height: 35rem;
+    width: 41rem;
+    margin-left: 2%;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.text-side {
+   
+    padding-right: 1.9rem;
+
+}
+.text-side h3 {
+    color: #ffffff;
+    font-family: Poppins, sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 10rem;
+    margin-top: 1rem;
+    text-transform: uppercase;
+    
+}
+
+.text-side h4 {
+    color: #2d2e32;
+    font-family: Poppins, sans-serif;
+    font-size: 2.2rem;
+    line-height: 1.4;
+    margin-bottom: 9rem;
+    margin-top: -80px;
+}
+
+
+.text-side p {
+    color: #3d3a3a;
+    font-family: Mulish, sans-serif;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-top: -6rem;
+}
+* {
+    scrollbar-color: #8e8e8e #fff;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+body {
+    background-color: #fff;
+    font-family: Poppins, sans-serif;
+    position: relative;
+}
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
+
+
+
