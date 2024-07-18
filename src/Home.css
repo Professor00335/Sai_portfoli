@@ -307,13 +307,12 @@ html {
     padding: 0;
 }
 
-
 .hero-img {
 
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    background-image: url(file:///C:/Users/SAI/Pictures/New%20folder/Sai.jpg);
+    background-image: url(file:///C:/Users/SAI/Documents/Portfolio%20Website/Sai%20Portfolio/portfolio/public/Sai.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
