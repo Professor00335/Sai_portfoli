@@ -21,8 +21,7 @@ const Home = () => {
                                 </a>
                              </span>
                         </div>
-                        <div className="hero-img">
-                        </div>
+                        <div className="hero-img"></div>
                         <div className="skills">
                             <p>Tech Stack</p>
                             <div className="logos">
